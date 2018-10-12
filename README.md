@@ -31,10 +31,10 @@ Acesse a aplicação através do link: http://0.0.0.0:8000
 
 ## Principais funcionalidades
 * Realizar prescrição médica
-* Chat entre médico e paciênte
+* Chat entre médico e paciente
 * Consultar receitas antigas
 * Enviar exames ao médico
-* Salvar receitas preescritas
+* Salvar receitas prescritas
 
 
 ## Como contribuir
